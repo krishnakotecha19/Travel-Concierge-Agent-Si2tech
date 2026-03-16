@@ -1,0 +1,15 @@
+airportsdata==20260208
+geopy==2.4.1
+google_search_results==2.4.2
+groq==1.0.0
+msal==1.35.0
+openrouteservice==2.3.3
+Pillow==12.1.1
+python-dotenv==1.2.2
+Requests==2.32.5
+streamlit==1.54.0
+psycopg2-binary
+sqlalchemy
+python-dotenv
+pymupdf
+openpyxl 

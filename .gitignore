@@ -1,0 +1,25 @@
+# Secrets
+.env
+
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Cache files
+flight_iata_cache.json
+mmt_city_cache.json
+search_history.json
+scraped_receipts.json
+
+# Excel data
+SI2Tech_Travel_Master.xlsx
+
+# Database backups
+db_backups/
+
+# OS files
+Thumbs.db
+.DS_Store
